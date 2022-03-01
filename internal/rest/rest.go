@@ -3,7 +3,7 @@ package rest
 import (
 	"context"
 	"fmt"
-	"github.com/def-stocks-t/getaway/internal/config"
+	"github.com/def-stocks-t/gateway/internal/config"
 	"github.com/go-chi/chi/v5/middleware"
 	"net/http"
 	"net/http/httputil"

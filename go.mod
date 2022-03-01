@@ -1,4 +1,4 @@
-module github.com/def-stocks-t/getaway
+module github.com/def-stocks-t/gateway
 
 go 1.17
 

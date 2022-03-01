@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/def-stocks-t/getaway/internal/config"
-	"github.com/def-stocks-t/getaway/internal/rest"
+	"github.com/def-stocks-t/gateway/internal/config"
+	"github.com/def-stocks-t/gateway/internal/rest"
 	"github.com/deface90/go-logger/filename"
 	"github.com/jinzhu/configor"
 	log "github.com/sirupsen/logrus"
