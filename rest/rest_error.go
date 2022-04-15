@@ -21,6 +21,7 @@ const (
 	ErrDecode         = 2 // failed to unmarshal incoming request
 	ErrNoAccess       = 3 // rejected by auth
 	ErrBadRequest     = 4 // bad request
+	ErrValidation     = 5 // validation error
 )
 
 // SendErrorJSON makes {error: '', details: ''} json body and responds with error code
